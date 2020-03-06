@@ -32,4 +32,3 @@ define(["require", "exports", "@angular/core"], function (require, exports, core
    }());
    exports.ExternalModule = ExternalModule;
 });
-//# sourceMappingURL=widget.js.map
